@@ -28,7 +28,7 @@ sales-data-analysis/
 │   └── sales_data_analysis.py
 │
 ├── README.md
-└── Sales_Data_Analysis_Dashboard.pbit (Optional if you save the Power BI template)
+└── Sales_Data_Analysis_Dashboard.pbit
 ```
 
 ## Features
